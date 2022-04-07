@@ -1,5 +1,5 @@
 ## Authentication Server
-The application stores user credentials in its database and provides authentication for the 'Training_center' application. The authentication process is described in the 'Training_center' 'README.md' file.
+The application stores users credentials in its database and provides authentication for the 'Training_center' application. The authentication process is described in the 'Training_center' 'README.md' file.
 
 ### Prerequisites
 The following needs to be installed before building the project:
