@@ -1,0 +1,10 @@
+spring:
+  jpa:
+    hibernate:
+      ddl-auto: validate
+    show-sql: true
+  datasource:
+    username: postgres
+    password: qwerty
+    url: jdbc:postgresql://localhost:5432/authentication
+    driver-class-name: org.postgresql.Driver
